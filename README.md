@@ -20,6 +20,10 @@
 📄 CTRL + ; = Comentar o conteúdo selecionado <br>
 📄 CTRL + F = Pesquisa o caracter/palavra informado <br>
 
+##  🚀 Editor de Plugins
+📄 https://www.beecrowd.com.br/judge/pt/login
+📄 https://exercism.org/donate
+
 ## 🚀 Links úteis:
 
 📌Fotos gratuitas em alta definição<br>
