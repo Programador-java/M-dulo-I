@@ -21,7 +21,7 @@
 📄 CTRL + F = Pesquisa o caracter/palavra informado <br>
 
 ##  🚀 Editor de Plugins
-📄 https://www.beecrowd.com.br/judge/pt/login
+📄 https://www.beecrowd.com.br/judge/pt/login <br>
 📄 https://exercism.org/donate
 
 ## 🚀 Links úteis:
